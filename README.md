@@ -8,19 +8,19 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on my **front end wedsite**
 
-- 🌱 I’m currently learning **Wed development**
+- 🌱 I’m currently learning **front end development**
 
-- 👯 I’m looking to collaborate on with **Google**
+- 👯 I’m looking to collaborate on with **a front end developer**
 
-- 🤝 I’m looking for help with **Amazon or Elon Musk**
+- 🤝 I’m looking for help with **a master front end developer**
 
-- 👨‍💻 All of my projects are available at my git hud
+- 👨‍💻 All of my projects are available at front end folders
 
 - 📝 I regularly write articles on front end
 
 - 💬 Ask me about **Front end Development**
 
-- 📫 How to reach me **so come on my git hub**
+- 📫 How to reach me **come in my front end wedsite**
 
 - 📄 Know about my experiences of front end
 
