@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **a master front end developer**
 
-- 👨‍💻 All of my projects are available at front end folders
+- 👨‍💻 All of my projects are available at my front end folders
 
 - 📝 I regularly write articles on front end
 
