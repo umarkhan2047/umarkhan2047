@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRqamFzYmwzYnI5cXhlYXZrd2lka3B6eXZrZjlidWllejlmNTh0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvQIqJyNBOCjK/giphy.gif)
 <h3 align="left">Connect with me:</h3>
+hmmm my front end wedsite *crying*
 <p align="left">
 </p>
 
